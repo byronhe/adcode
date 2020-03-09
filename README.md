@@ -174,7 +174,7 @@ PR/PULL与发布提交时，再使用`dump/load`生成文本格式的数据（�
 
 ### 地理围栏表（fences）
 
-注意，根据中华人名共和国测绘法。
+注意，根据中华人民共和国测绘法。
 
 #### 基础信息
 
@@ -283,5 +283,3 @@ PR可以直接在`adcode/*.csv`与`fences/*.json`中进行变更，能从commit 
 ## LICENSE
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png)
-
-本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
